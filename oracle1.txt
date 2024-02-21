@@ -1,0 +1,248 @@
+Types of Data
+=============
+We have two types of data.
+
+1)Unstructured Data
+
+2)Structured Data
+
+1)Unstructured Data
+--------------------
+Data which is not in readable format is called unstructured data.
+
+In general meaning less data is called unstructured data.
+
+ex:
+	
+	201	Lakemba 	SYD	NSW   	AUS 
+
+2)Structured Data
+----------------
+Data which is in readable format is called structured data.
+
+In general, meaningfull data is called structured data.
+
+ex:
+	UnitNo  Locality	City    State   Country
+	-----   --------        ----    ----    -------
+	201	Lakemba 	SYD	NSW   	AUS 
+
+
+Oracle
+========
+Oracle is one of the database which is used to store structured data.
+
+Oracle is a product of Oracle Corporation.
+
+Oracle is a case insensitive language.
+
+Oracle is classified into two types.
+
+				Oracle
+		|-----------------|---------------|
+		SQL				PL/SQL 
+(Structured Query Language)		(Procedural / Structured Query Lang)
+   Developed by IBM			Developed by Oracle corporation
+
+
+Client-Server Architecture
+==========================
+In this architecture we will see how our data will store from frontend to backend.
+
+Diagram: oracle1.1
+
+FrontEnd
+--------
+The one which is visible to the enduser to perform some operations is called frontend.
+ex:
+	Java,.Net,Python,Perl and etc.
+
+Communication Channel
+-------------------
+It acts like a bridge between frontend and backend.
+ex:
+	JDBC - Java Database Connectivity
+	ODBC - Open Database Connectivity
+	PDBC - Python Database Connectivity 
+
+BackEnd
+--------
+The one which is not visible to the enduser but it performs operation based on the instructions given by frontend is called backend. 
+ex:
+	Oracle, MySQL, Sybase, Teradata, NoSQL , MonogDB and etc.
+
+Management System
+==================
+Management system is a software which is used to manage the database.
+
+Management system will perform following activities very easily.
+
+1)Adding the new data
+
+2)Modifying the existing data 
+
+3)Deleting the unnecessary data
+
+4)Selecting the required data
+
+DBMS
+======
+A database along with software which is used to manage the database is called database management system.
+
+RDBMS
+======
+If any database which is created based on relational theories such type of database called relational database management.
+ex:
+	Oracle , MySQL, PostgreSQL, Teradata, DB2 and etc.
+
+SQL
+=====
+SQL stands for Structured Query Language which is pronounce as SEQUEL.
+
+It is used to interact with oracle database.
+
+It is a command based language.
+
+It is a case insensitive language.
+
+Every command must starts with verbs.
+ex:
+	select,update,delete,merge,insert and etc.
+
+Every command must ends with semicolon (;).
+
+It is a developed by Mr.Codd in 1972 (by IBM).
+
+
+Sub Languages of SQL
+====================
+We have five sub languages of SQL.
+
+1)DDL (Data Definition Language)
+
+2)DML (Data Manipulation Language)
+
+3)DRL/DQL (Data Retrieve Language)
+
+4)TCL (Transaction Control Language)
+
+5)DCL (Data Control Language)
+
+
+1)DDL (Data Definition Language)
+---------------------------------
+It is used to maintain the objects in database.
+
+It is a collection of five commands.
+
+ex:
+	create,alter,drop,truncate and rename.
+
+2)DML (Data Manipulation Language)
+---------------------------------
+It is used to manipulate the data which is present in database.
+
+It is a collection of four commands.
+ex:
+	insert,update,delete and merge.
+
+3)DRL/DQL (Data Retrieve Language)
+----------------------------------
+It is used to retrieve the data which is present in database.
+
+It is a collection of one command.
+ex:
+	select 
+
+4)TCL (Transaction Control Language)
+---------------------------------
+It is used to maintain the transaction of database.
+
+It is a collection of three commands.
+
+ex:
+	commit, rollback  and savepoint.
+
+5)DCL (Data Control Language)
+------------------------------
+This language is used to control the access of data to the user.
+
+It is a collection of two commands.
+
+ex:
+	grant and revoke .
+
+Oracle 
+========
+Version		:	10g or 11g 
+
+Creator		:	Mr.Codd
+
+Vendor		:	Oracle Corporation 
+
+Opensource	:	Opensource 
+
+Edition		:	Expression Edition software 
+
+Username        :       system(default)
+
+Password	:       admin(custom)
+
+Port No		:	1521	
+
+website		:	https://www.oracle.com/in/database 
+ 
+
+Download  link  : 
+
+https://drive.google.com/file/d/0B9rC21sL6v0td1NDZXpkUy1oMm8/view?usp=drive_link&resourcekey=0-aKooR3NmAh_eLo_qGw_inA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
